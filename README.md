@@ -24,3 +24,5 @@ These features will be used for training the following models were used for mode
 - Decision Tree
 - KNN
 - Random Forest
+
+The Random Forest model emerged as the most effective in addressing our research question of predicting wine quality based on historical customer ratings and specific wine chemical properties; however, improvements are necessary to mitigate bias towards certain classes. 
